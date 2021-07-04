@@ -4,8 +4,6 @@
 #include "G4RunManager.hh"
 #include "G4NistManager.hh"
 #include "G4Box.hh"
-#include "G4Cons.hh"
-#include "G4Sphere.hh"
 #include "G4LogicalVolume.hh"
 #include "G4PVPlacement.hh"
 #include "G4SystemOfUnits.hh"
@@ -19,7 +17,6 @@
 #include "G4ChargeState.hh"
 #include "G4EquationOfMotion.hh"
 #include "G4ElectroMagneticField.hh"
-#include "G4MonopoleEq.hh"
 
 #include "globals.hh"
 #include "G4PhysicalConstants.hh"
